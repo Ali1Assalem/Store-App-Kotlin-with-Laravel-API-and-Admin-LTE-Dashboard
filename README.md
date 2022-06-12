@@ -7,6 +7,7 @@
  * Admin LTE Dashboard
  * Room
  * FCM push notifications
+ * + more features
  
 Overview of the application on this link in YouTube :
 https://youtu.be/ndmeZ04ci-Y
